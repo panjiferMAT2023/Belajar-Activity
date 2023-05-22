@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StringBox">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:padding"></item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">40dp</item>
+    </style>
+
+    <style name="StringName">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/roboto_thin</item>
+    </style>
+</resources>
